@@ -1,2 +1,2 @@
 # learning
-Repo of radom learning stuff
+Repo of random learning stuff
